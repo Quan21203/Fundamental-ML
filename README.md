@@ -33,9 +33,38 @@ This project is designed to be completed in the following steps:
     
     1. Prerequisite
     2. Principle Component Analysis
+![Biểu Đồ Phương Sai Tích Lũy](./materials/image.png)
+## Xác định số thành phần chính tối ưu để giữ lại 90% phương sai
+
+### Tổng quan
+
+Để xác định số thành phần chính tối ưu nhằm giữ lại 90% phương sai trong tập dữ liệu, chúng ta có thể thực hiện theo cách tiếp cận hệ thống như sau:
+### Các bước
+1. **Vẽ đồ thị biểu diễn lượng phương sai tích luỹ theo số thành phần chính:**
+            - **Trục X:** Biểu diễn số lượng các thành phần chính.
+            - **Trục Y:** Biểu diễn tỷ lệ phần trăm phương sai tích lũy được giải thích.
+
+2. **Chọn ngưỡng cho lượng thông tin cần giữ lại:**
+            - Trong trường hợp này, ngưỡng là 90%.
+
+3. **Xác định số thành phần chính cần thiết để tích luỹ được 90% phương sai:**
+            - Xác định điểm trên đồ thị mà phương sai tích luỹ đạt 90%.
+            - Thêm 1 vào giá trị này để xác định số lượng thành phần chính tối ưu.
+
+    Kết luận: Dựa trên cách tiếp cận này, nếu giảm dữ liệu xuống còn 113 chiều và giữ lại được khoảng 90% lượng thông tin ban đầu, ta có thể kết luận rằng 113 là số thành phần chính tối ưu.
+   
     3. Image Classification
+   
+**Ở phần này, nhóm đã chọn:**
+
+3 Model ML là:
+- Decision Tree
+- Logistic Regression
+- KNN (K-Nearest Neighnbors)
+
+Và MLP (Multilayer Perceptron)
+
     4. Evaluating Classification Performance 
-To include this table and the conclusions in your README on GitHub, you can format the table in Markdown. Here is the Markdown version of your table and the conclusions:
 
 ### Summary of Model Performance
 
