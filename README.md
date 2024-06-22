@@ -33,8 +33,11 @@ This project is designed to be completed in the following steps:
     
     1. Prerequisite
     2. Principle Component Analysis
+## Data được trực quan hóa sau ki giảm chiều với n_components = 2
+![Visualize Data](./materials/visualize.png)
+
+## Xác định số thành phần chính tối ưu để giữ lại với phương sai nhất định
 ![Biểu Đồ Phương Sai Tích Lũy](./materials/image.png)
-## Xác định số thành phần chính tối ưu để giữ lại 90% phương sai
 
 ### Tổng quan
 
