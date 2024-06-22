@@ -5,12 +5,12 @@ This repository contains the code and data for a mini-project on facial expressi
 ## 📑 Project Policy
 - Team: group should consist of 3-4 students.
 
-    |No.| Student Name    | Student ID |
-    | --------| -------- | ------- |
-    |1|||
-    |2|||
-    |3|||
-    |4|||
+    |No.| Student Name               | Student ID |
+    | --| ---------------------------| ---------- |
+    | 1 | Trần Anh Quân              | 21110374   |
+    | 2 | Trần Trọng Phúc            | 21110372   |
+    | 3 | Trần Xuân Thắng            | 21110390   |
+    | 4 | Tưởng Hoàng Ngọc Tuyền     | 21110444   |
 
 - The submission deadline is strict: **11:59 PM** on **June 22nd, 2024**. Commits pushed after this deadline will not be considered.
 
