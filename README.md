@@ -37,7 +37,7 @@ This project is designed to be completed in the following steps:
 ![Visualize Data](./materials/visualize.png)
 
 ## Xác định số thành phần chính tối ưu để giữ lại với phương sai nhất định
-![Biểu Đồ Phương Sai Tích Lũy](./materials/image.png)
+![Biểu Đồ Phương Sai Tích Lũy](./materials/optimal.png)
 
 ### Tổng quan
 
