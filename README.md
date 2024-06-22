@@ -31,9 +31,9 @@ This project is designed to be completed in the following steps:
 
 3. **Complete the Tasks**: Open the ```notebooks/EDA.ipynb``` notebook in your Jupyter Notebook environment. The notebook is designed to guide you through various tasks, including:
     
-    1. Prerequisite
-    2. Principle Component Analysis
-## Data được trực quan hóa sau ki giảm chiều với n_components = 2
+### i. **Prerequisite**
+### ii. **Principle Component Analysis**
+**Data được trực quan hóa sau ki giảm chiều với n_components = 2**
 ![Visualize Data](./materials/visualize.png)
 
 ## Xác định số thành phần chính tối ưu để giữ lại với phương sai nhất định
@@ -56,7 +56,7 @@ This project is designed to be completed in the following steps:
 
     Kết luận: Dựa trên cách tiếp cận này, nếu giảm dữ liệu xuống còn 113 chiều và giữ lại được khoảng 90% lượng thông tin ban đầu, ta có thể kết luận rằng 113 là số thành phần chính tối ưu.
    
-    3. Image Classification
+### iii. **Image Classification**
    
 **Ở phần này, nhóm đã chọn:**
 
@@ -67,7 +67,7 @@ This project is designed to be completed in the following steps:
 
 Và MLP (Multilayer Perceptron)
 
-    4. Evaluating Classification Performance 
+### iv. **Evaluating Classification Performance** 
 
 ### Summary of Model Performance
 
